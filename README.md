@@ -16,3 +16,6 @@ recognize_speech_from_file
 load_filenames_from_file
 
 get_guess
+
+### Test
+Implement test in online and offline modes. Download the audio files required for excuting the recognition.
